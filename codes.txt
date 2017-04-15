@@ -1,0 +1,23 @@
+<?php
+include once 'dbcon.php';
+if(isset($_POST['submit']))
+{
+ // variables for input data
+ $nameofborrower = $_POST['nameofborrower'];
+ $contactno = $_POST['contact'];
+ $wheretodeliver = $_POST['wheretodeliver'];
+ $quantity = $_POST['quantity'];
+ $tentsize = $_POST['inlineRadioOptions'];
+ $date1 = $_POST['date1'];
+ $timeofdeliver = $_POST['timeofdeliver'];
+ // variables for input data
+
+ // sql query for inserting data into database
+
+        $sql_query = "INSERT INTO request_tent(nameofborrower, contactno, wheretodeliver, quantity, tentsize, date1, timeofdeliver) VALUES('$nameofborrower', '$contactno', '$wheretodeliver', '$quantity', '$tentsize', '$date1', '$timeofdeliver')";
+ mysqli_query($sql_query);
+
+        // sql query for inserting data into database
+
+}
+?>

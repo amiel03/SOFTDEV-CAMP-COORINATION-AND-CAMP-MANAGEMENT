@@ -1,0 +1,21 @@
+https://emergencymanual.iom.int/entry/19172/camp-coordination-and-camp-management-cccm - CAMP MO 'TO
+
+http://digitaleducation.net/ndrp/wp-content/uploads/2016/09/C_CCCM-operation-protocol_20150207_EQT.pdf
+
+
+http://www.ehealth.ph/media/kunena/attachments/196/ManualonEvacuationCampManagementDraft1.pdf
+
+http://www.webpal.org/SAFE/aaareconstruction/immediate/refugee_camp.htm
+
+http://www.campetent.com/family-camping-tent-sizes.html
+
+http://www.campetent.com/tent-pads-and-tent-camping.html
+
+http://digitaleducation.net/ndrp/wp-content/uploads/2016/09/C_CCCM-operation-protocol_20150207_EQT.pdf
+
+http://reliefweb.int/report/philippines/camp-coordination-and-camp-management-cluster-response-typhoon-haiyan-yolanda-11
+
+///////// EVACUEE FORM ////////////
+http://www.maca.gov.nt.ca/wp-content/uploads/2011/10/MACA_Public-Safety_Disaster-Financial-Assistance-Evacuation-Assistance-Guide_2011.pdf
+
+<input type="text" class="form-control" id="placetodev" name="wheretodeliver" placeholder="Location for delivery" value="" required>
